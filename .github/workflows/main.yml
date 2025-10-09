@@ -1,4 +1,4 @@
-name: deploy Pisxxal
+name: pipline py-3
 
 on:
   push:
